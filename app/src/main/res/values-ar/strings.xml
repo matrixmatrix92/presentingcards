@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SIC</string>
+    <string name="txt_sic">المؤسسة العامة السورية للتأمين</string>
+    <string name="nav_buy">شراء تأمين</string>
+    <string name="nav_news">الأخبار</string>
+    <string name="nav_services">الخدمات التأمينية</string>
+    <string name="nav_who_are_we">من نحن</string>
+    <string name="nav_gallery">المعرض</string>
+    <string name="nav_contact_us">اتصل بنا</string>
+</resources>
